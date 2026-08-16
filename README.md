@@ -1,2 +1,2 @@
 # climateApp
-I had created a website which can tell you the live climate information on the basis of the searched city.
+A web application tool which shows the climate information in your searched city by fetching the data from openweathermap API.
